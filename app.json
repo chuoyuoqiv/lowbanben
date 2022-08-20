@@ -1,0 +1,38 @@
+{
+    "name": "diban",
+    "description": "diban",
+    "keywords": ["diban"],
+    "env": {
+        "AA": {
+            "description": "modify AUUID then Deploy",
+            "value": "check and try"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "fsfdsfasafs2-twsfdf-3323423-fwe3-334444414"
+        },
+        "CADDYIndexPage": {
+            "description": "view page",
+            "value": "https://github.com/"
+        },
+        "CONFIGCADDY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/445/445/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/445/445/main/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/445/445/main/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/445",
+    "repository": "https://github.com/445",
+    "stack": "container"
+}
